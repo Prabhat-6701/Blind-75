@@ -1,4 +1,4 @@
-//brute
+//brute approach
 
 // #include<bits/stdc++.h>
 // using namespace std;
