@@ -15,7 +15,7 @@ void printDups(string s){
       
     }
 }
-
+//main function
 int main(){
     string s;
     cout<<"Enter the string"<<endl;
